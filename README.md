@@ -1,6 +1,6 @@
 Exemplo de teste usando:
 
-* Selenium Webdriver
+* Selenium WebDriver
 * JUnit 5
 * Java 11
 * IntelliJ IDEA
